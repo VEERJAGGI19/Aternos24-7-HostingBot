@@ -27,9 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 60,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 500,
       "messages": [
         "VEERJAGGI19 has to be the best player alive like he is too good",
         "play on thus server more or im gonna start gettin in my epstien arc!",
