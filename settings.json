@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "VALHALLA-SMP-qRRL.aternos.me",
+    "port": 21109,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "VEERJAGGI19 has to be the best player alive like he is too good",
+        "play on thus server more or im gonna start gettin in my epstien arc!",
+        "i will crawl under your bed if you leave!"
       ]
     },
     "chat-log": true,
